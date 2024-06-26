@@ -1,7 +1,3 @@
-<div align="center">
-  <img src=https://github.com/noahtheprogrammer/soltrade/assets/81941019/aee060e2-d254-447e-b2ec-746367e06483 alt="soltrade_logo">
-</div>
-
 ### Introduction
 Soltrade is a Python-based, open source trading bot that we created in order to dive deeper into the workings of the blockchain and leap headfirst into the world of technical analysis. It integrates EMA, RSI, and Bollinger Band indicators into a customizable trading interval to predict the most profitable course of action. Jupiter has been integrated into Soltrade as well, allowing for near-instantaneous transactions with minimal fees. Soltrade is fairly customizable, with more user input to come in later versions. A ten-day chart demonstation of open and close positions with Soltrade's algorithm can be viewed below.
 
